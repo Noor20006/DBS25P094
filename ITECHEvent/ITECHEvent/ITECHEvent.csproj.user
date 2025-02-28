@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignCommitee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignVenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CommiteeRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CommitteeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="credinals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalFinancial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizeCommitee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParticipantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParticipantReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ranking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecordSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registrationtype.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="timeconflicts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TracktotalFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VenueSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
