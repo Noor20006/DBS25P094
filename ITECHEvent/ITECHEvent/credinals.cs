@@ -42,9 +42,22 @@ namespace ITECHEvent
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
 
+
+
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login l = new Login();
+            l.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Register r = new Register();
+            r.Show();
         }
     }
 }

@@ -62,3 +62,7 @@ C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\obj\Debug\net8.0-windows\ITE
 C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\obj\Debug\net8.0-windows\ITECHEvent.TracktotalFee.resources
 C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\obj\Debug\net8.0-windows\ITECHEvent.UpdateEvent.resources
 C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\obj\Debug\net8.0-windows\ITECHEvent.VenueSelection.resources
+C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\obj\Debug\net8.0-windows\ITECHEvent.sourcelink.json
+C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\MR NoN\Desktop\MYSQL\ITECHEvent\ITECHEvent\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll

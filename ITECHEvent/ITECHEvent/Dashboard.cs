@@ -66,5 +66,10 @@ namespace ITECHEvent
         {
 
         }
+
+        private void Dashboard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

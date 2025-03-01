@@ -28,16 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AssignCommitee));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
+            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             pictureBox5 = new PictureBox();
             pictureBox4 = new PictureBox();
             pictureBox3 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox1 = new PictureBox();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
+            textBox1 = new TextBox();
+            comboBox2 = new ComboBox();
+            maskedTextBox5 = new MaskedTextBox();
+            maskedTextBox1 = new MaskedTextBox();
+            maskedTextBox2 = new MaskedTextBox();
+            comboBox1 = new ComboBox();
+            button1 = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
@@ -50,6 +57,13 @@
             // 
             panel1.BackColor = Color.LightSlateGray;
             panel1.BackgroundImageLayout = ImageLayout.None;
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(comboBox1);
+            panel1.Controls.Add(maskedTextBox2);
+            panel1.Controls.Add(maskedTextBox1);
+            panel1.Controls.Add(comboBox2);
+            panel1.Controls.Add(maskedTextBox5);
+            panel1.Controls.Add(textBox1);
             panel1.Controls.Add(guna2TextBox1);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(pictureBox4);
@@ -61,6 +75,29 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(802, 451);
             panel1.TabIndex = 1;
+            // 
+            // guna2TextBox1
+            // 
+            guna2TextBox1.BorderColor = Color.LightSlateGray;
+            guna2TextBox1.CustomizableEdges = customizableEdges3;
+            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
+            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.FillColor = Color.LightSlateGray;
+            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2TextBox1.ForeColor = Color.White;
+            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Location = new Point(229, 33);
+            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
+            guna2TextBox1.Name = "guna2TextBox1";
+            guna2TextBox1.PlaceholderText = "";
+            guna2TextBox1.SelectedText = "";
+            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            guna2TextBox1.Size = new Size(366, 65);
+            guna2TextBox1.TabIndex = 18;
             // 
             // pictureBox5
             // 
@@ -112,28 +149,79 @@
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             // 
-            // guna2TextBox1
+            // textBox1
             // 
-            guna2TextBox1.BorderColor = Color.LightSlateGray;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
-            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FillColor = Color.LightSlateGray;
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2TextBox1.ForeColor = Color.White;
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Location = new Point(233, 70);
-            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2TextBox1.Size = new Size(366, 65);
-            guna2TextBox1.TabIndex = 18;
+            textBox1.BackColor = Color.LightSlateGray;
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Font = new Font("Segoe Print", 12.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            textBox1.Location = new Point(245, 107);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(335, 31);
+            textBox1.TabIndex = 19;
+            textBox1.Text = "Committee & Role Management form";
+            // 
+            // comboBox2
+            // 
+            comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "Logistics", "Technical", "Marketing", "Sponsorship" });
+            comboBox2.Location = new Point(416, 168);
+            comboBox2.Name = "comboBox2";
+            comboBox2.Size = new Size(130, 23);
+            comboBox2.TabIndex = 24;
+            // 
+            // maskedTextBox5
+            // 
+            maskedTextBox5.BackColor = Color.LightSlateGray;
+            maskedTextBox5.BorderStyle = BorderStyle.None;
+            maskedTextBox5.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox5.Location = new Point(229, 163);
+            maskedTextBox5.Name = "maskedTextBox5";
+            maskedTextBox5.Size = new Size(317, 29);
+            maskedTextBox5.TabIndex = 23;
+            maskedTextBox5.Text = "Assign Committee";
+            // 
+            // maskedTextBox1
+            // 
+            maskedTextBox1.BackColor = Color.LightSlateGray;
+            maskedTextBox1.BorderStyle = BorderStyle.None;
+            maskedTextBox1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox1.Location = new Point(229, 198);
+            maskedTextBox1.Name = "maskedTextBox1";
+            maskedTextBox1.Size = new Size(317, 29);
+            maskedTextBox1.TabIndex = 25;
+            maskedTextBox1.Text = "Member Name:-";
+            // 
+            // maskedTextBox2
+            // 
+            maskedTextBox2.BackColor = Color.LightSlateGray;
+            maskedTextBox2.BorderStyle = BorderStyle.None;
+            maskedTextBox2.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox2.Location = new Point(229, 233);
+            maskedTextBox2.Name = "maskedTextBox2";
+            maskedTextBox2.Size = new Size(317, 29);
+            maskedTextBox2.TabIndex = 26;
+            maskedTextBox2.Text = "Role in Committee";
+            // 
+            // comboBox1
+            // 
+            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { " Faculty Advisor", "Student Lead", "Volunteer" });
+            comboBox1.Location = new Point(416, 238);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(130, 23);
+            comboBox1.TabIndex = 27;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(668, 360);
+            button1.Name = "button1";
+            button1.Size = new Size(86, 38);
+            button1.TabIndex = 28;
+            button1.Text = "Confirm";
+            button1.UseVisualStyleBackColor = true;
             // 
             // AssignCommitee
             // 
@@ -144,6 +232,7 @@
             Name = "AssignCommitee";
             Text = "AssignCommitee";
             panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
@@ -161,5 +250,12 @@
         private PictureBox pictureBox2;
         private PictureBox pictureBox1;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private TextBox textBox1;
+        private ComboBox comboBox2;
+        private MaskedTextBox maskedTextBox5;
+        private ComboBox comboBox1;
+        private MaskedTextBox maskedTextBox2;
+        private MaskedTextBox maskedTextBox1;
+        private Button button1;
     }
 }
