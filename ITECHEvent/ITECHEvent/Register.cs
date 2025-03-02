@@ -26,5 +26,12 @@ namespace ITECHEvent
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login l = new Login();
+            l.Show();
+        }
     }
 }

@@ -59,17 +59,64 @@ namespace ITECHEvent
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            EventForm E = new EventForm();
+            E.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            AssignTask a = new AssignTask();
+            a.Show();
         }
 
         private void Dashboard_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            registrationtype r = new registrationtype();
+            r.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            AssignCommitee a = new AssignCommitee();
+            a.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FinalFinancial f = new FinalFinancial();
+            f.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ITEC i = new ITEC();
+            i.Show();
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            AssignVenue a = new AssignVenue();
+            a.Show();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            result r = new result();
+            r.Show();
         }
     }
 }

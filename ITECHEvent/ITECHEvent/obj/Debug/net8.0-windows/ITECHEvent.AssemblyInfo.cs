@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITECHEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a80ec415010cf0affb84bb752b03d91c5fcc74c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+879cab1b87fd8839bcc3c0f7b78d2a5fc9105373")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITECHEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITECHEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

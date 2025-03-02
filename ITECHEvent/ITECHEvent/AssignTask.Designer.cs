@@ -28,34 +28,41 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AssignTask));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AssignTask));
             panel1 = new Panel();
+            button1 = new Button();
+            comboBox1 = new ComboBox();
+            maskedTextBox1 = new MaskedTextBox();
+            comboBox2 = new ComboBox();
+            maskedTextBox5 = new MaskedTextBox();
+            textBox1 = new TextBox();
+            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             pictureBox5 = new PictureBox();
             pictureBox4 = new PictureBox();
             pictureBox3 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox1 = new PictureBox();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            textBox1 = new TextBox();
-            comboBox2 = new ComboBox();
-            maskedTextBox5 = new MaskedTextBox();
-            comboBox1 = new ComboBox();
-            maskedTextBox1 = new MaskedTextBox();
-            button1 = new Button();
+            comboBox3 = new ComboBox();
+            maskedTextBox2 = new MaskedTextBox();
+            dataGridView1 = new DataGridView();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
             panel1.BackColor = Color.LightSlateGray;
             panel1.BackgroundImageLayout = ImageLayout.None;
+            panel1.Controls.Add(dataGridView1);
+            panel1.Controls.Add(comboBox3);
+            panel1.Controls.Add(maskedTextBox2);
             panel1.Controls.Add(button1);
             panel1.Controls.Add(comboBox1);
             panel1.Controls.Add(maskedTextBox1);
@@ -68,11 +75,96 @@
             panel1.Controls.Add(pictureBox3);
             panel1.Controls.Add(pictureBox2);
             panel1.Controls.Add(pictureBox1);
-            panel1.Enabled = false;
             panel1.Location = new Point(-1, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(802, 451);
             panel1.TabIndex = 1;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(703, 398);
+            button1.Name = "button1";
+            button1.Size = new Size(86, 38);
+            button1.TabIndex = 27;
+            button1.Text = "Confirm";
+            button1.UseVisualStyleBackColor = true;
+            // 
+            // comboBox1
+            // 
+            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Pending", "In Progress", "Completed" });
+            comboBox1.Location = new Point(418, 245);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(130, 23);
+            comboBox1.TabIndex = 26;
+            // 
+            // maskedTextBox1
+            // 
+            maskedTextBox1.BackColor = Color.LightSlateGray;
+            maskedTextBox1.BorderStyle = BorderStyle.None;
+            maskedTextBox1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox1.Location = new Point(233, 239);
+            maskedTextBox1.Name = "maskedTextBox1";
+            maskedTextBox1.Size = new Size(317, 29);
+            maskedTextBox1.TabIndex = 25;
+            maskedTextBox1.Text = "Task Status";
+            // 
+            // comboBox2
+            // 
+            comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "faculty", "student member" });
+            comboBox2.Location = new Point(418, 209);
+            comboBox2.Name = "comboBox2";
+            comboBox2.Size = new Size(130, 23);
+            comboBox2.TabIndex = 24;
+            // 
+            // maskedTextBox5
+            // 
+            maskedTextBox5.BackColor = Color.LightSlateGray;
+            maskedTextBox5.BorderStyle = BorderStyle.None;
+            maskedTextBox5.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox5.Location = new Point(233, 204);
+            maskedTextBox5.Name = "maskedTextBox5";
+            maskedTextBox5.Size = new Size(317, 29);
+            maskedTextBox5.TabIndex = 23;
+            maskedTextBox5.Text = "Task Assigned";
+            // 
+            // textBox1
+            // 
+            textBox1.BackColor = Color.LightSlateGray;
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Font = new Font("Segoe Print", 12.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            textBox1.Location = new Point(258, 95);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(313, 31);
+            textBox1.TabIndex = 20;
+            textBox1.Text = " Duty Assignment & Tracking form";
+            // 
+            // guna2TextBox1
+            // 
+            guna2TextBox1.BorderColor = Color.LightSlateGray;
+            guna2TextBox1.CustomizableEdges = customizableEdges1;
+            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
+            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.FillColor = Color.LightSlateGray;
+            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2TextBox1.ForeColor = Color.White;
+            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Location = new Point(244, 18);
+            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
+            guna2TextBox1.Name = "guna2TextBox1";
+            guna2TextBox1.PlaceholderText = "";
+            guna2TextBox1.SelectedText = "";
+            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            guna2TextBox1.Size = new Size(366, 65);
+            guna2TextBox1.TabIndex = 19;
             // 
             // pictureBox5
             // 
@@ -87,7 +179,7 @@
             // pictureBox4
             // 
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(418, 360);
+            pictureBox4.Location = new Point(418, 398);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(100, 50);
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
@@ -124,91 +216,34 @@
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             // 
-            // guna2TextBox1
+            // comboBox3
             // 
-            guna2TextBox1.BorderColor = Color.LightSlateGray;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
-            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FillColor = Color.LightSlateGray;
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2TextBox1.ForeColor = Color.White;
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Location = new Point(244, 51);
-            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2TextBox1.Size = new Size(366, 65);
-            guna2TextBox1.TabIndex = 19;
+            comboBox3.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox3.FormattingEnabled = true;
+            comboBox3.Items.AddRange(new object[] { "Logistics", "Technical", "Marketing", "Sponsorship" });
+            comboBox3.Location = new Point(418, 170);
+            comboBox3.Name = "comboBox3";
+            comboBox3.Size = new Size(130, 23);
+            comboBox3.TabIndex = 29;
             // 
-            // textBox1
+            // maskedTextBox2
             // 
-            textBox1.BackColor = Color.LightSlateGray;
-            textBox1.BorderStyle = BorderStyle.None;
-            textBox1.Font = new Font("Segoe Print", 12.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox1.Location = new Point(258, 118);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(313, 31);
-            textBox1.TabIndex = 20;
-            textBox1.Text = " Duty Assignment & Tracking form";
+            maskedTextBox2.BackColor = Color.LightSlateGray;
+            maskedTextBox2.BorderStyle = BorderStyle.None;
+            maskedTextBox2.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            maskedTextBox2.Location = new Point(233, 164);
+            maskedTextBox2.Name = "maskedTextBox2";
+            maskedTextBox2.Size = new Size(317, 29);
+            maskedTextBox2.TabIndex = 28;
+            maskedTextBox2.Text = "Assign Committee";
             // 
-            // comboBox2
+            // dataGridView1
             // 
-            comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "faculty", "student member" });
-            comboBox2.Location = new Point(363, 199);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(130, 23);
-            comboBox2.TabIndex = 24;
-            // 
-            // maskedTextBox5
-            // 
-            maskedTextBox5.BackColor = Color.LightSlateGray;
-            maskedTextBox5.BorderStyle = BorderStyle.None;
-            maskedTextBox5.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            maskedTextBox5.Location = new Point(233, 194);
-            maskedTextBox5.Name = "maskedTextBox5";
-            maskedTextBox5.Size = new Size(317, 29);
-            maskedTextBox5.TabIndex = 23;
-            maskedTextBox5.Text = "Task Assigned";
-            // 
-            // comboBox1
-            // 
-            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Pending", "In Progress", "Completed" });
-            comboBox1.Location = new Point(363, 244);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(130, 23);
-            comboBox1.TabIndex = 26;
-            // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.BackColor = Color.LightSlateGray;
-            maskedTextBox1.BorderStyle = BorderStyle.None;
-            maskedTextBox1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            maskedTextBox1.Location = new Point(233, 239);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(317, 29);
-            maskedTextBox1.TabIndex = 25;
-            maskedTextBox1.Text = "Task Status";
-            // 
-            // button1
-            // 
-            button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(654, 360);
-            button1.Name = "button1";
-            button1.Size = new Size(86, 38);
-            button1.TabIndex = 27;
-            button1.Text = "Confirm";
-            button1.UseVisualStyleBackColor = true;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(191, 291);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(504, 101);
+            dataGridView1.TabIndex = 30;
             // 
             // AssignTask
             // 
@@ -225,6 +260,7 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
 
@@ -244,5 +280,8 @@
         private ComboBox comboBox1;
         private MaskedTextBox maskedTextBox1;
         private Button button1;
+        private ComboBox comboBox3;
+        private MaskedTextBox maskedTextBox2;
+        private DataGridView dataGridView1;
     }
 }

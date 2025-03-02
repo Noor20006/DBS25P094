@@ -3,58 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\assigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\40e4f2e7c5551db4758d6110627590d62a368a66253232020d03de6df2bb3bcd\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\477bca99d8a011f83ba45494afdc38d950513880930738d37345b12646a85a99\\ITECHEvent\\ITECHEvent\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\assignvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assignvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\assignvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assignvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\finalfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\finalfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\assigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assigntask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assigncommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\committeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\committeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\itec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\itec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\4a9ab4a2dabce57dc8afa8adbac6e496a281fa8d052585d3b502c6799dce51ed\\ITECHEvent\\ITECHEvent\\AddEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\9aa4f9eda5f4c9a7e31b08c56498638d4636fc9c3f20cfe283c0caf7b7db320c\\ITECHEvent\\ITECHEvent\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\741db9592c413959ca26cfcc4c14df3dd3b536594d58070c8b5770d9dbf947d0\\ITECHEvent\\ITECHEvent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\itechevent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\itechevent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\credinals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\477bca99d8a011f83ba45494afdc38d950513880930738d37345b12646a85a99\\ITECHEvent\\ITECHEvent\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,60 +155,12 @@
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\credinals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\venueselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\participantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\participantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\updateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\deleteevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\organizecommitee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\finalfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\finalfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\committeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\committeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,10 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\timeconflicts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\timeconflicts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -165,20 +199,12 @@
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\trackprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\commiteerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\commiteerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\assignstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\assignstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\itechevent\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|c:\\users\\mr non\\desktop\\mysql\\itechevent\\itechevent\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE13433A-403A-4041-AD78-7A2F1CFAF1CF}|ITECHEvent\\ITECHEvent.csproj|solutionrelative:itechevent\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -188,129 +214,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrganizeCommitee.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\40e4f2e7c5551db4758d6110627590d62a368a66253232020d03de6df2bb3bcd\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.Designer.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\40e4f2e7c5551db4758d6110627590d62a368a66253232020d03de6df2bb3bcd\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.Designer.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\40e4f2e7c5551db4758d6110627590d62a368a66253232020d03de6df2bb3bcd\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.Designer.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\40e4f2e7c5551db4758d6110627590d62a368a66253232020d03de6df2bb3bcd\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AssignVenue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignVenue.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AssignVenue.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignVenue.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\AssignVenue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:45:50.211Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddEvent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\AddEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\AddEvent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:09:14.538Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "credinals.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\credinals.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\credinals.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:18:14.97Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\Register.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:00:15.886Z",
+              "WhenOpened": "2025-03-01T11:54:34.038Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\Login.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:32:41.007Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssignTask.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignTask.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\AssignTask.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignTask.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\AssignTask.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:21:10.05Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\Dashboard.cs",
               "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs [Design]",
               "RelativeToolTip": "ITECHEvent\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:01:31.547Z",
+              "WhenOpened": "2025-03-01T10:09:28.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignVenue.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignVenue.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AssignVenue.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignVenue.cs",
+              "RelativeToolTip": "ITECHEvent\\AssignVenue.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:46:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenueSelection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\VenueSelection.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\VenueSelection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:21:21.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
+              "RelativeToolTip": "ITECHEvent\\Dashboard.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:48:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalFinancial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\FinalFinancial.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\FinalFinancial.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\FinalFinancial.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\FinalFinancial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:32:28.355Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AssignTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignTask.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AssignTask.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignTask.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\AssignTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:22:04.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AssignCommitee.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignCommitee.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\AssignCommitee.cs",
               "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignCommitee.cs [Design]",
               "RelativeToolTip": "ITECHEvent\\AssignCommitee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:47:06.448Z",
+              "WhenOpened": "2025-03-01T11:50:32.727Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "registrationtype.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\registrationtype.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\registrationtype.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\registrationtype.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\registrationtype.cs [Design]",
+              "Title": "VenueSelection.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\VenueSelection.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs",
+              "RelativeToolTip": "ITECHEvent\\VenueSelection.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:16:00.57Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-02T06:31:58.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "credinals.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\credinals.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
-              "RelativeToolTip": "ITECHEvent\\credinals.cs",
-              "ViewState": "AgIAAAQAAACAzczMzMwjwDsAAAAVAAAAAAAAAA==",
+              "Title": "AssignCommitee.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignCommitee.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AssignCommitee.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignCommitee.cs",
+              "RelativeToolTip": "ITECHEvent\\AssignCommitee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:45:02.68Z",
+              "WhenOpened": "2025-03-02T07:31:01.086Z",
               "EditorCaption": ""
             },
             {
@@ -322,12 +349,304 @@
               "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.cs [Design]",
               "RelativeToolTip": "ITECHEvent\\OrganizeCommitee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:17:40.677Z",
+              "WhenOpened": "2025-03-02T07:26:18.666Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "registrationtype.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\registrationtype.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\registrationtype.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\registrationtype.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\registrationtype.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:16:00.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteEvent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\DeleteEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\DeleteEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:34:45.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateEvent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\UpdateEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\UpdateEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:10:19.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEvent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AddEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\AddEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:09:14.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommitteeReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommitteeReport.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\CommitteeReport.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommitteeReport.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\CommitteeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:31:35.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventSchedule.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\EventSchedule.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventSchedule.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\EventSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:32:58.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\EventForm.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\EventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:08:53.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrganizeCommitee.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\OrganizeCommitee.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.cs",
+              "RelativeToolTip": "ITECHEvent\\OrganizeCommitee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:05:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\UpdateEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
+              "RelativeToolTip": "ITECHEvent\\UpdateEvent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:57:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\DeleteEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
+              "RelativeToolTip": "ITECHEvent\\DeleteEvent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:45:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\AddEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "RelativeToolTip": "ITECHEvent\\AddEvent.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:53:52.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventForm.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\EventForm.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
+              "RelativeToolTip": "ITECHEvent\\EventForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:44:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\Register.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:00:15.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITEC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ITEC.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\ITEC.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ITEC.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\ITEC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:26:46.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "mysql.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\mysql.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "RelativeToolTip": "ITECHEvent\\mysql.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:23:19.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\4a9ab4a2dabce57dc8afa8adbac6e496a281fa8d052585d3b502c6799dce51ed\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\4a9ab4a2dabce57dc8afa8adbac6e496a281fa8d052585d3b502c6799dce51ed\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\4a9ab4a2dabce57dc8afa8adbac6e496a281fa8d052585d3b502c6799dce51ed\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\4a9ab4a2dabce57dc8afa8adbac6e496a281fa8d052585d3b502c6799dce51ed\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:58:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "mysql.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\9aa4f9eda5f4c9a7e31b08c56498638d4636fc9c3f20cfe283c0caf7b7db320c\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\9aa4f9eda5f4c9a7e31b08c56498638d4636fc9c3f20cfe283c0caf7b7db320c\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\9aa4f9eda5f4c9a7e31b08c56498638d4636fc9c3f20cfe283c0caf7b7db320c\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\9aa4f9eda5f4c9a7e31b08c56498638d4636fc9c3f20cfe283c0caf7b7db320c\\ITECHEvent\\ITECHEvent\\mysql.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:45:59.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\741db9592c413959ca26cfcc4c14df3dd3b536594d58070c8b5770d9dbf947d0\\ITECHEvent\\ITECHEvent\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\741db9592c413959ca26cfcc4c14df3dd3b536594d58070c8b5770d9dbf947d0\\ITECHEvent\\ITECHEvent\\Program.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\741db9592c413959ca26cfcc4c14df3dd3b536594d58070c8b5770d9dbf947d0\\ITECHEvent\\ITECHEvent\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\741db9592c413959ca26cfcc4c14df3dd3b536594d58070c8b5770d9dbf947d0\\ITECHEvent\\ITECHEvent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:45:02.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITECHEvent",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ITECHEvent.csproj",
+              "RelativeDocumentMoniker": "ITECHEvent\\ITECHEvent.csproj",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ITECHEvent.csproj",
+              "RelativeToolTip": "ITECHEvent\\ITECHEvent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T12:17:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\Login.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:32:41.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\Register.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
+              "RelativeToolTip": "ITECHEvent\\Register.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:35:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "credinals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\credinals.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs [Design]",
+              "RelativeToolTip": "ITECHEvent\\credinals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:18:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\Login.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.cs",
+              "RelativeToolTip": "ITECHEvent\\Login.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:09:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "credinals.cs",
+              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
+              "RelativeDocumentMoniker": "ITECHEvent\\credinals.cs",
+              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.cs",
+              "RelativeToolTip": "ITECHEvent\\credinals.cs",
+              "ViewState": "AgIAACsAAAAADgAAAAD+vzkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:45:02.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\AppData\\Local\\SourceServer\\477bca99d8a011f83ba45494afdc38d950513880930738d37345b12646a85a99\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\477bca99d8a011f83ba45494afdc38d950513880930738d37345b12646a85a99\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
@@ -335,25 +654,11 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\477bca99d8a011f83ba45494afdc38d950513880930738d37345b12646a85a99\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:36:03.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T15:36:03.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Dashboard.cs",
-              "RelativeToolTip": "ITECHEvent\\Dashboard.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T16:48:04.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Program.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\Program.cs",
@@ -361,25 +666,11 @@
               "RelativeToolTip": "ITECHEvent\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:32:07.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:32:07.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\Register.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Register.cs",
-              "RelativeToolTip": "ITECHEvent\\Register.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T16:35:56.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 37,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Login.Designer.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\Login.Designer.cs",
@@ -387,12 +678,11 @@
               "RelativeToolTip": "ITECHEvent\\Login.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:18:41.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:18:41.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "credinals.Designer.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\credinals.Designer.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\credinals.Designer.cs",
@@ -400,24 +690,11 @@
               "RelativeToolTip": "ITECHEvent\\credinals.Designer.cs",
               "ViewState": "AgIAABYAAAAAzszMzEwYwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:16:41.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:16:41.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\AddEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AddEvent.cs",
-              "RelativeToolTip": "ITECHEvent\\AddEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:53:52.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "registrationtype.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\registrationtype.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\registrationtype.cs",
@@ -429,29 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EventForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\EventForm.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\EventForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:08:53.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "VenueSelection.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\VenueSelection.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\VenueSelection.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\VenueSelection.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T09:31:19.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "ParticipantForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ParticipantForm.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\ParticipantForm.cs",
@@ -462,110 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UpdateEvent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\UpdateEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\UpdateEvent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:10:19.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DeleteEvent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\DeleteEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\DeleteEvent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:34:45.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EventForm.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\EventForm.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventForm.cs",
-              "RelativeToolTip": "ITECHEvent\\EventForm.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:44:32.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\UpdateEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\UpdateEvent.cs",
-              "RelativeToolTip": "ITECHEvent\\UpdateEvent.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:57:12.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DeleteEvent.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\DeleteEvent.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\DeleteEvent.cs",
-              "RelativeToolTip": "ITECHEvent\\DeleteEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:45:58.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "OrganizeCommitee.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\OrganizeCommitee.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\OrganizeCommitee.cs",
-              "RelativeToolTip": "ITECHEvent\\OrganizeCommitee.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T05:05:20.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EventSchedule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventSchedule.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\EventSchedule.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventSchedule.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\EventSchedule.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:32:58.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FinalFinancial.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\FinalFinancial.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\FinalFinancial.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\FinalFinancial.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\FinalFinancial.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:32:28.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CommitteeReport.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommitteeReport.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\CommitteeReport.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommitteeReport.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\CommitteeReport.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:31:35.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "EventSchedule.cs",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\EventSchedule.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\EventSchedule.cs",
@@ -577,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "ParticipantReport.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ParticipantReport.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\ParticipantReport.cs",
@@ -588,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "ranking.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\ranking.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\ranking.cs",
@@ -599,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "result.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\result.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\result.cs",
@@ -610,18 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "timeconflicts.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\timeconflicts.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\timeconflicts.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\timeconflicts.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\timeconflicts.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:26:46.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "GenerateReport.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\GenerateReport.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\GenerateReport.cs",
@@ -632,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "TracktotalFee.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\TracktotalFee.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\TracktotalFee.cs",
@@ -643,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "TrackExpense.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\TrackExpense.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\TrackExpense.cs",
@@ -654,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "RecordSource.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\RecordSource.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\RecordSource.cs",
@@ -665,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "TrackProgress.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\TrackProgress.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\TrackProgress.cs",
@@ -676,18 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CommiteeRole.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommiteeRole.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\CommiteeRole.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\CommiteeRole.cs [Design]",
-              "RelativeToolTip": "ITECHEvent\\CommiteeRole.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:20:36.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "AssignStudents.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\AssignStudents.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\AssignStudents.cs",
@@ -698,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "Payment.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\Payment.cs",
               "RelativeDocumentMoniker": "ITECHEvent\\Payment.cs",
@@ -706,18 +836,6 @@
               "RelativeToolTip": "ITECHEvent\\Payment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T14:16:58.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "mysql.cs",
-              "DocumentMoniker": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\mysql.cs",
-              "RelativeDocumentMoniker": "ITECHEvent\\mysql.cs",
-              "ToolTip": "C:\\Users\\MR NoN\\Desktop\\MYSQL\\ITECHEvent\\ITECHEvent\\mysql.cs",
-              "RelativeToolTip": "ITECHEvent\\mysql.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:23:19.23Z"
             }
           ]
         }

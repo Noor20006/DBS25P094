@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ITECHEvent
 {
-    public partial class ParticipantReport : Form
+    public partial class ITEC : Form
     {
-        public ParticipantReport()
+        public ITEC()
         {
             InitializeComponent();
         }

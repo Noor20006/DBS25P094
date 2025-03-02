@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Register));
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
@@ -39,10 +39,8 @@
             maskedTextBox1 = new MaskedTextBox();
             textBox1 = new TextBox();
             maskedTextBox2 = new MaskedTextBox();
-            maskedTextBox4 = new MaskedTextBox();
             maskedTextBox5 = new MaskedTextBox();
             guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            comboBox1 = new ComboBox();
             comboBox2 = new ComboBox();
             panel1 = new Panel();
             button1 = new Button();
@@ -138,17 +136,6 @@
             maskedTextBox2.TabIndex = 12;
             maskedTextBox2.Text = "Password:-";
             // 
-            // maskedTextBox4
-            // 
-            maskedTextBox4.BackColor = Color.LightSlateGray;
-            maskedTextBox4.BorderStyle = BorderStyle.None;
-            maskedTextBox4.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            maskedTextBox4.Location = new Point(233, 274);
-            maskedTextBox4.Name = "maskedTextBox4";
-            maskedTextBox4.Size = new Size(317, 29);
-            maskedTextBox4.TabIndex = 14;
-            maskedTextBox4.Text = "ITEC edition:-";
-            // 
             // maskedTextBox5
             // 
             maskedTextBox5.BackColor = Color.LightSlateGray;
@@ -163,7 +150,7 @@
             // guna2TextBox1
             // 
             guna2TextBox1.BorderColor = Color.LightSlateGray;
-            guna2TextBox1.CustomizableEdges = customizableEdges3;
+            guna2TextBox1.CustomizableEdges = customizableEdges1;
             guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
             guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -179,19 +166,9 @@
             guna2TextBox1.Name = "guna2TextBox1";
             guna2TextBox1.PlaceholderText = "";
             guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
             guna2TextBox1.Size = new Size(366, 65);
             guna2TextBox1.TabIndex = 18;
-            // 
-            // comboBox1
-            // 
-            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "ITEC 2024", "ITEC 2025" });
-            comboBox1.Location = new Point(363, 279);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(130, 23);
-            comboBox1.TabIndex = 19;
             // 
             // comboBox2
             // 
@@ -209,10 +186,8 @@
             panel1.BackgroundImageLayout = ImageLayout.None;
             panel1.Controls.Add(button1);
             panel1.Controls.Add(comboBox2);
-            panel1.Controls.Add(comboBox1);
             panel1.Controls.Add(guna2TextBox1);
             panel1.Controls.Add(maskedTextBox5);
-            panel1.Controls.Add(maskedTextBox4);
             panel1.Controls.Add(maskedTextBox2);
             panel1.Controls.Add(textBox1);
             panel1.Controls.Add(maskedTextBox1);
@@ -221,7 +196,6 @@
             panel1.Controls.Add(pictureBox3);
             panel1.Controls.Add(pictureBox2);
             panel1.Controls.Add(pictureBox1);
-            panel1.Enabled = false;
             panel1.Location = new Point(-1, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(802, 451);
@@ -236,6 +210,7 @@
             button1.TabIndex = 28;
             button1.Text = "Sign In";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // Register
             // 
@@ -266,10 +241,8 @@
         private TextBox textBox1;
         private MaskedTextBox maskedTextBox1;
         private MaskedTextBox maskedTextBox5;
-        private MaskedTextBox maskedTextBox4;
         private MaskedTextBox maskedTextBox2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
-        private ComboBox comboBox1;
         private ComboBox comboBox2;
         private Button button1;
     }

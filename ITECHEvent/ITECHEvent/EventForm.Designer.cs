@@ -28,10 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EventForm));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EventForm));
             panel1 = new Panel();
+            button5 = new Button();
+            button4 = new Button();
+            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             textBox2 = new TextBox();
             button3 = new Button();
             button2 = new Button();
@@ -42,7 +45,6 @@
             pictureBox3 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox1 = new PictureBox();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
@@ -55,6 +57,8 @@
             // 
             panel1.BackColor = Color.LightSlateGray;
             panel1.BackgroundImageLayout = ImageLayout.None;
+            panel1.Controls.Add(button5);
+            panel1.Controls.Add(button4);
             panel1.Controls.Add(guna2TextBox1);
             panel1.Controls.Add(textBox2);
             panel1.Controls.Add(button3);
@@ -66,19 +70,63 @@
             panel1.Controls.Add(pictureBox3);
             panel1.Controls.Add(pictureBox2);
             panel1.Controls.Add(pictureBox1);
-            panel1.Enabled = false;
             panel1.Location = new Point(-1, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(801, 445);
             panel1.TabIndex = 1;
             panel1.Paint += panel1_Paint;
             // 
+            // button5
+            // 
+            button5.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button5.Location = new Point(237, 333);
+            button5.Name = "button5";
+            button5.Size = new Size(207, 37);
+            button5.TabIndex = 20;
+            button5.Text = "Schedule Venue & Time";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
+            // button4
+            // 
+            button4.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.Location = new Point(237, 291);
+            button4.Name = "button4";
+            button4.Size = new Size(189, 33);
+            button4.TabIndex = 19;
+            button4.Text = "Organize Committee";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // guna2TextBox1
+            // 
+            guna2TextBox1.BorderColor = Color.LightSlateGray;
+            guna2TextBox1.CustomizableEdges = customizableEdges1;
+            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
+            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            guna2TextBox1.FillColor = Color.LightSlateGray;
+            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2TextBox1.ForeColor = Color.White;
+            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            guna2TextBox1.Location = new Point(244, 64);
+            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
+            guna2TextBox1.Name = "guna2TextBox1";
+            guna2TextBox1.PlaceholderText = "";
+            guna2TextBox1.SelectedText = "";
+            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            guna2TextBox1.Size = new Size(366, 52);
+            guna2TextBox1.TabIndex = 18;
+            // 
             // textBox2
             // 
             textBox2.BackColor = Color.LightSlateGray;
             textBox2.BorderStyle = BorderStyle.None;
             textBox2.Font = new Font("Segoe Print", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox2.Location = new Point(237, 152);
+            textBox2.Location = new Point(237, 139);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(142, 27);
             textBox2.TabIndex = 14;
@@ -87,17 +135,18 @@
             // button3
             // 
             button3.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.Location = new Point(333, 323);
+            button3.Location = new Point(237, 254);
             button3.Name = "button3";
             button3.Size = new Size(137, 31);
             button3.TabIndex = 13;
             button3.Text = "Delete Event";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button2
             // 
             button2.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(287, 253);
+            button2.Location = new Point(237, 214);
             button2.Name = "button2";
             button2.Size = new Size(130, 34);
             button2.TabIndex = 12;
@@ -108,12 +157,13 @@
             // button1
             // 
             button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(237, 185);
+            button1.Location = new Point(237, 172);
             button1.Name = "button1";
             button1.Size = new Size(111, 36);
             button1.TabIndex = 11;
             button1.Text = "Add Event";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // textBox1
             // 
@@ -140,7 +190,7 @@
             // pictureBox4
             // 
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(418, 360);
+            pictureBox4.Location = new Point(424, 376);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(100, 50);
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
@@ -177,29 +227,6 @@
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             // 
-            // guna2TextBox1
-            // 
-            guna2TextBox1.BorderColor = Color.LightSlateGray;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
-            guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FillColor = Color.LightSlateGray;
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe Print", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2TextBox1.ForeColor = Color.White;
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Location = new Point(244, 64);
-            guna2TextBox1.Margin = new Padding(7, 9, 7, 9);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2TextBox1.Size = new Size(366, 52);
-            guna2TextBox1.TabIndex = 18;
-            // 
             // EventForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -232,5 +259,7 @@
         private Button button1;
         private TextBox textBox2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private Button button5;
+        private Button button4;
     }
 }

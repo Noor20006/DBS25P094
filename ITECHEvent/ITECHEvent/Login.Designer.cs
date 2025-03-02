@@ -28,10 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             panel1 = new Panel();
+            button1 = new Button();
             guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             textBox3 = new TextBox();
             textBox2 = new TextBox();
@@ -41,7 +42,6 @@
             pictureBox3 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox1 = new PictureBox();
-            button1 = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
@@ -64,16 +64,27 @@
             panel1.Controls.Add(pictureBox3);
             panel1.Controls.Add(pictureBox2);
             panel1.Controls.Add(pictureBox1);
-            panel1.Enabled = false;
-            panel1.Location = new Point(-1, 0);
+            panel1.Location = new Point(-1, -2);
             panel1.Name = "panel1";
-            panel1.Size = new Size(802, 451);
+            panel1.Size = new Size(802, 453);
             panel1.TabIndex = 1;
+            panel1.Paint += panel1_Paint;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(661, 373);
+            button1.Name = "button1";
+            button1.Size = new Size(111, 37);
+            button1.TabIndex = 28;
+            button1.Text = "DashBoard";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // guna2TextBox1
             // 
             guna2TextBox1.BorderColor = Color.LightSlateGray;
-            guna2TextBox1.CustomizableEdges = customizableEdges1;
+            guna2TextBox1.CustomizableEdges = customizableEdges5;
             guna2TextBox1.DefaultText = "ITEC Event Management\n\n\n";
             guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -89,7 +100,7 @@
             guna2TextBox1.Name = "guna2TextBox1";
             guna2TextBox1.PlaceholderText = "";
             guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges6;
             guna2TextBox1.Size = new Size(366, 65);
             guna2TextBox1.TabIndex = 17;
             // 
@@ -98,7 +109,7 @@
             textBox3.BackColor = Color.LightSlateGray;
             textBox3.BorderStyle = BorderStyle.None;
             textBox3.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox3.Location = new Point(245, 194);
+            textBox3.Location = new Point(245, 185);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(305, 29);
             textBox3.TabIndex = 9;
@@ -175,16 +186,6 @@
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
-            // 
-            // button1
-            // 
-            button1.Font = new Font("Segoe Print", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(661, 373);
-            button1.Name = "button1";
-            button1.Size = new Size(111, 37);
-            button1.TabIndex = 28;
-            button1.Text = "DashBoard";
-            button1.UseVisualStyleBackColor = true;
             // 
             // Login
             // 
